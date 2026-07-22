@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reviews.leefuhr.com/drill-bit-set-picks/sitemap.xml
